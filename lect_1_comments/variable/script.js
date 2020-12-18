@@ -1,3 +1,5 @@
+
+
 //variable -en container /box -for att lagra info
 //heap-/stack-direct access/ linkad access
 //många variant att decklarera
