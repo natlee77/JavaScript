@@ -1,7 +1,7 @@
 /* SKA ANVÄNDA VALIDERA() OFTEN-den info som vi type in
   JS validera dynamisk info , när vi scriver in ---
   instället vi trycka knapen och det ses -- "fel"
-    ---FOKUS område i JS:
+    ---FOKUS område i JS for oss:
     - validering
     - hur vi kan hämta data  på smidig set(statisk<->dynamisk)
   */
