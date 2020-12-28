@@ -67,7 +67,7 @@ export const validate5 = (value, min = 2, callback) => {
                 })
 }     
 
-//---------- tillfunction--regular expression--RegEx
+//---------- tillfunction--regular expression--------RegEx
 //regular expression /\d/---kollar om inerhåller tech eller numer
 /*   
     \d--find digit

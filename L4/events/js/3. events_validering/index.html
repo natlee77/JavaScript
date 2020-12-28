@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <title>JavaScript</title>
+</head>
+<body>
+  
+    <input id="input" type="text" placeholder="input"> 
+   
+    <div>
+        <button id="click_btn">klick</button>
+        <button id="add_btn">add</button>
+        <button id="remote_btn">ta bort</button>
+      </div>
+
+    <!-- time -->
+    
+        <input id="input_time" onchange="displayDate()" type="text" placeholder="time">
+        <div>
+            <button id="demo" > the time is ?</button>
+            <button  id="time" onclick="displayDate()">The time </button>
+        </div>
+   
+    
+     <!-- firstname -->
+     <div>
+        <input id="firstname" type="text" placeholder="Firstname">
+    <button id="addfn_btn" disabled>add</button>
+    <!-- plats for error mdl -->
+    <div id="firstname-error" style="color: red"></div>
+
+    <input id="lastname" type="text" placeholder="lastname">
+   
+    <div id="lastname-error" style="color: red"></div>
+    <div id="results"></div>
+     </div>
+    
+    
+    
+
+
+    <script  src="javascript.js"></script>
+</body>
+</html>
