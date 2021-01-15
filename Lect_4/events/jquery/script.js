@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // på enklare set komma till Objects; events/lättare comando ,men klara inte allt
     // React & jquery--- går inte ihop/jq-på väg bort - gammal
-    // motsvarar----- document.getElementsByTagName / .getElementById / .getElementsByClassName
+    //$('div')-- motsvarar----- document.getElementsByTagName / .getElementById / .getElementsByClassName
     /*
     //________innerText  --lägga text(i prioritet)
     $('div').text('Detta är texten jag vill lägga in via div')//object taget
@@ -32,12 +32,12 @@ $(document).ready(function() {
     
     */
    //___________ fade() ---forsvinner slowly
-    
+    /* 
          $("button").click(function(){
                $("#div1").fadeIn();
                $("#div2").fadeIn("slow");
                $("#div3").fadeIn(3000);
-           });
+           }); */
     
     //_____________slide()
     

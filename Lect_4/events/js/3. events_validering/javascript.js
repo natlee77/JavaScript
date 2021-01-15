@@ -8,7 +8,8 @@
  let counter = 0  //counter++ / ++counter//ladda inte om websida
  
 document.getElementById('click_btn').addEventListener('click', ()=>{
-    console.log('clicked')//event - vad hända om jag tryck på knappen
+    console.log('clicked')//event - vad hända om jag tryck på knappen i console/inspect
+   //skriva ut på
     document.getElementById('results').innerText='puff ' + ++counter +' gång'     //text i broweser
 })
 

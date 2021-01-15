@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+#prod-catalog {
+  font-size: 0.8rem;
+
+}
+#prod-catalog .prod-name{
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+#prod-catalog .prod-description{
+  color:rgb(70, 70, 71);
+  
+}
+#prod-catalog i{
+  margin-left: 0.5rem;
+  color: green ;
+}
