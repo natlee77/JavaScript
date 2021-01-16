@@ -10,10 +10,18 @@
   font-size: 1.1rem;
 }
 #prod-catalog .prod-description{
-  color:rgb(70, 70, 71);
+  color:gray;
   
 }
-#prod-catalog i{
-  margin-left: 0.5rem;
-  color: green ;
+#prod-catalog i{  
+  margin-right: 0.5rem;
+}
+.cursor-pointer{
+  cursor: pointer;   
+}
+.instock{
+  color: #9dd37a;
+}
+.outstock{
+  color: #cec54a;
 }
